@@ -1,5 +1,6 @@
 # Crypto-Backtesting-Tool
-A tool for semi automated backtesting trading strategies against historic price data
+A tool for semi automated backtesting trading strategies against historic price data.
+
 Still in very early development.
 
 Features:
