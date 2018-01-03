@@ -6,7 +6,7 @@
 #define BACKTESTING_TOOL_BLADERUNNER_H
 
 
-#include "TradingAlgorithm.h"
+#include "../TradingAlgorithm.h"
 
 class BladeRunner: public TradingAlgorithm
 {

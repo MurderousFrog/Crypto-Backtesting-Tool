@@ -1,6 +1,6 @@
 
 
-#include "TradingAlgorithm.h"
+#include "../TradingAlgorithm.h"
 
 #ifndef BACKTESTING_TOOL_RUNNINGTURTLE_H
 #define BACKTESTING_TOOL_RUNNINGTURTLE_H

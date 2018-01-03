@@ -4,9 +4,9 @@
 
 #include <iostream>
 #include "BacktestTool.h"
-#include "EdgeRunner.h"
-#include "BladeRunner.h"
-#include "RunningTurtle.h"
+#include "Algorithms/EdgeRunner.h"
+#include "Algorithms/BladeRunner.h"
+#include "Algorithms/RunningTurtle.h"
 
 class Out;
 

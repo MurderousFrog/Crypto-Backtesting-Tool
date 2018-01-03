@@ -6,7 +6,7 @@
 #define BACKTESTING_TOOL_EDGERUNNER_H
 
 
-#include "TradingAlgorithm.h"
+#include "../TradingAlgorithm.h"
 
 class EdgeRunner : public TradingAlgorithm
 {
